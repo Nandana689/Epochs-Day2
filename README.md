@@ -29,5 +29,12 @@ This project analyzes the Northwind database using SQL to answer important busin
 4. Category-wise sales performance.
 5. Customer order count.
 
+## Business Insights
+1. The top-selling products contribute significantly to overall sales.
+2. A small group of customers generates the highest revenue.
+3. Monthly sales show fluctuations, indicating seasonal trends.
+4. Some product categories perform better than others in terms of sales.
+5. Customers with more orders are valuable and can be targeted through loyalty programs.
+
 ## ✅ Conclusion
 This project demonstrates how SQL can be used to extract meaningful business insights from the Northwind database by analyzing sales, customers, and product performance.
